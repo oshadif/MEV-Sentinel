@@ -1,0 +1,7 @@
+{
+  "name": "MEV Sentinel",
+  "edition": "Full Portfolio Edition",
+  "version": "2.0.0",
+  "generated": "2026-08-15T07:43:51.580475Z",
+  "safety_scope": "analytics-only"
+}
